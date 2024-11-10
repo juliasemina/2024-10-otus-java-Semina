@@ -1,1 +1,1 @@
-# 2024-10-otus-java-Semina
+# otus_java_2024_10
